@@ -22,7 +22,7 @@ I’m passionate about turning raw data into meaningful stories and automating i
 
 ### 🌐 Let's Connect and Learn Together!
 
-📧 **Email:** navya.kamath@gmail.com  
+📧 **Email:** maynavya@gmail.com  
 🔗 **LinkedIn:** [navyakamath03](https://www.linkedin.com/in/navyakamath03)  
 🐙 **GitHub:** [@navya-kamath](https://github.com/navya-kamath)
 
