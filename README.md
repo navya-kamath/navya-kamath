@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Navya!
 
-🎓 M.Sc. in Statistics | 📊 Aspiring Data Analyst | 👩‍💻 QA Engineer (UI Testing)  
+🎓 M.Sc. in Statistics | 📊 Aspiring Data Analyst | 👩‍💻 Frontend Developer & Tester)  
 I’m passionate about turning raw data into meaningful stories and automating insights using statistics, Python, and SQL.
 
 ---
